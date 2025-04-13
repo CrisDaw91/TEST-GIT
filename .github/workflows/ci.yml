@@ -13,4 +13,4 @@ jobs:
     steps:
     - uses: actions/checkout@v3
     - name: Prueba de integración continua
-      run: echo "El pipeline se ejecutó correctamente 
+      run: echo "El pipeline se ejecutó correctamente" 
